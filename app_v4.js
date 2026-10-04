@@ -2557,7 +2557,7 @@ const _renderCustOrderGrid = (container, list, isActive) => {
         waText += ` siparişiniz teslimata hazırdır. Ürününüzü dilediğiniz zaman işletmemizden teslim alabilirsiniz.\n\n`;
         waText += `Bizi tercih ettiğiniz için teşekkür ederiz.\n\n`;
         waText += `İletişim: +90 551 726 53 53\n`;
-        waText += `📍 Konum: https://maps.app.goo.gl/5mfXWVdFp6vxaio3A`;
+        waText += `\u{1F4CD} Konum: https://maps.app.goo.gl/5mfXWVdFp6vxaio3A`;
 
         
         html += `
